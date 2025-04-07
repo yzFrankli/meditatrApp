@@ -4,7 +4,7 @@
     "subtitle": "subtitle",
     "description": "description ",
     "duration": 10.0,
-    "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
+    "track": "5minGuided",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "subtitle": " ",
     "description": " ",
     "duration": 10.0,
-    "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
+    "track": "5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
