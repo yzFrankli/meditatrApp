@@ -3,8 +3,8 @@
     "title": "Meditation Track 1 ",
     "subtitle": "subtitle",
     "description": "description ",
-    "track": "./5minGuided.mp3",
-    "image": "./background.jpg"
+    "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/background.jpg"
   },
   {
     "title": "Meditation Track 1 ",
