@@ -1,10 +1,10 @@
 [
   {
     "title": "Meditation Track 1 ",
-    "subtitle": " ",
-    "description": " ",
-    "track": " ",
-    "image": " "
+    "subtitle": "subtitle",
+    "description": "description ",
+    "track": "/meditatr/5minGuided.mp3",
+    "image": "/meditatr/background.jpg"
   },
   {
     "title": "Meditation Track 1 ",
