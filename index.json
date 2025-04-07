@@ -4,7 +4,7 @@
     "subtitle": "subtitle",
     "description": "description ",
     "duration": 10.0,
-    "track": "5minGuided",
+    "track": "5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
@@ -18,7 +18,7 @@
   {
    "title": "Meditation Track 1 ",
     "subtitle": " ",
-    "description": " ",
+    "description": "5minGuided.mp3",
     "duration": 10.0,
     "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
@@ -26,7 +26,7 @@
   {
    "title": "Meditation Track 1 ",
     "subtitle": " ",
-    "description": " ",
+    "description": "5minGuided.mp3",
     "duration": 10.0,
     "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
