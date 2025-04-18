@@ -1,30 +1,30 @@
 [
   {
-    "title": "Meditation Track 1",
+    "title": "white noise Track 1",
     "subtitle": "subtitle 1",
-    "description": "description ",
+    "description": "White noise with bird",
     "duration": 10.0,
     "track": "whiteNoiseBird.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
-    "title": "Meditation Track 2",
+    "title": "white noise Track 2",
     "subtitle": "subtitle 2",
-    "description": " ",
+    "description": "White noise with soothing rain",
     "duration": 11.0,
     "track": "whiteNoiseRain.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic2.jpg"
   },
   {
-   "title": "Meditation Track 3",
+   "title": "white noise Track 3",
     "subtitle": "3",
-    "description": "10minGuided.mp3",
+    "description": "Plain white noise track",
     "duration": 12.0,
-    "track": "10minGuided.mp3",
+    "track": "whiteNoise.mp3",
     "image": "https://yzfrankli.github.io/meditatr/background.jpg"
   },
   {
-   "title": "Meditation Track 4",
+   "title": "white noise Track 4",
     "subtitle": "4",
     "description": "5minGuided.mp3",
     "duration": 14.0,
