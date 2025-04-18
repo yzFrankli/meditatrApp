@@ -1,34 +1,34 @@
 [
   {
-    "title": "Meditation Track 1",
-    "subtitle": "subtitle 1",
-    "description": "description ",
+    "title": "Music Track 1",
+    "subtitle": "Chakra music track",
+    "description": "Chakra music track ",
     "duration": 10.0,
-    "track": "5minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "track": "chakraMusic.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/pic5.jpg"
   },
   {
-    "title": "Meditation Track 2",
-    "subtitle": "subtitle 2",
-    "description": " ",
+    "title": "Music Track 2",
+    "subtitle": "Immersive calming music",
+    "description": "Total immersive calming music",
     "duration": 11.0,
-    "track": "10minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "track": "immersiveMusic.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/pic6.jpg"
   },
   {
-   "title": "Meditation Track 3",
-    "subtitle": "3",
-    "description": "10minGuided.mp3",
+   "title": "Music Track 3",
+    "subtitle": "Music made for calming meditation",
+    "description": "Music made for calming meditatio",
     "duration": 12.0,
-    "track": "10minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/background.jpg"
+    "track": "MeditationSound.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/pic7.jpg"
   },
   {
-   "title": "Meditation Track 4",
+   "title": "Music Track 4",
     "subtitle": "4",
     "description": "5minGuided.mp3",
     "duration": 14.0,
     "track": "10minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "image": "https://yzfrankli.github.io/meditatr/pic8.jpg"
   }
 ]
