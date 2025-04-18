@@ -1,27 +1,27 @@
 [
   {
     "title": "Meditation Track 1",
-    "subtitle": "subtitle 1",
-    "description": "description ",
+    "subtitle": "5 minute guided meditation",
+    "description": "5 minute guided meditation",
     "duration": 10.0,
     "track": "5minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
   {
     "title": "Meditation Track 2",
-    "subtitle": "subtitle 2",
-    "description": " ",
+    "subtitle": "10 minutes guided meditation",
+    "description": "10 minutes guided meditation",
     "duration": 11.0,
     "track": "10minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
   },
   {
    "title": "Meditation Track 3",
-    "subtitle": "3",
+    "subtitle": "Guided M",
     "description": "10minGuided.mp3",
     "duration": 12.0,
-    "track": "10minGuided.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+    "track": "GuidedM.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/pic11.jpg"
   },
   {
    "title": "Meditation Track 4",
