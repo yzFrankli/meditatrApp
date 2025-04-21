@@ -4,7 +4,7 @@
     "subtitle": "White noise with bird",
     "description": "White noise with bird",
     "duration": 10.0,
-    "track": "whiteNoiseBird.mp3",
+    "track": "whiteNoiseBird",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "subtitle": "White noise with soothing rain",
     "description": "White noise with soothing rain",
     "duration": 11.0,
-    "track": "whiteNoiseRain.mp3",
+    "track": "whiteNoiseRain",
     "image": "https://yzfrankli.github.io/meditatr/pic2.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "subtitle": "Plain white noise track",
     "description": "Plain white noise track",
     "duration": 12.0,
-    "track": "whiteNoise.mp3",
+    "track": "whiteNoise",
     "image": "https://yzfrankli.github.io/meditatr/background.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "subtitle": "5minGuided.mp3",
     "description": "5minGuided.mp3",
     "duration": 14.0,
-    "track": "10minGuided.mp3",
+    "track": "10minGuided",
     "image": "https://yzfrankli.github.io/meditatr/pic3.jpeg"
   }
 ]
