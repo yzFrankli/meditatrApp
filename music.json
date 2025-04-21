@@ -4,7 +4,7 @@
     "subtitle": "Chakra music track",
     "description": "Chakra music track ",
     "duration": 10.0,
-    "track": "chakraMusic.mp3",
+    "track": "chakraMusic",
     "image": "https://yzfrankli.github.io/meditatr/pic5.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "subtitle": "Immersive calming music",
     "description": "Total immersive calming music",
     "duration": 11.0,
-    "track": "immersiveMusic.mp3",
+    "track": "immersiveMusic",
     "image": "https://yzfrankli.github.io/meditatr/pic6.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "subtitle": "Music made for calming meditation",
     "description": "Music made for calming meditatio",
     "duration": 12.0,
-    "track": "MeditationSound.mp3",
+    "track": "MeditationSound",
     "image": "https://yzfrankli.github.io/meditatr/pic7.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "subtitle": "4",
     "description": "5minGuided.mp3",
     "duration": 14.0,
-    "track": "10minGuided.mp3",
+    "track": "10minGuided",
     "image": "https://yzfrankli.github.io/meditatr/pic8.jpg"
   }
 ]
