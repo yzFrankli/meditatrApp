@@ -4,7 +4,7 @@
     "subtitle": "5 minute guided meditation",
     "description": "5 minute guided meditation",
     "duration": 10.0,
-    "track": "5minGuided",
+    "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "subtitle": "10 minutes guided meditation",
     "description": "10 minutes guided meditation",
     "duration": 11.0,
-    "track": "10minGuided",
+    "track": "https://yzfrankli.github.io/meditatr/10minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "subtitle": "Guided Meditation to a peaceful day",
     "description": "10minGuided",
     "duration": 12.0,
-    "track": "GuidedM",
+    "track": "https://yzfrankli.github.io/meditatr/GuidedM.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic11.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "subtitle": "Clear your mind with 5 min guided meditation",
     "description": "Clear your mind with 5 min guided meditation",
     "duration": 14.0,
-    "track": "clearMind",
+    "track": "https://yzfrankli.github.io/meditatr/clearMind.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic12.jpg"
   }
 ]
