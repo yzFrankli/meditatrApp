@@ -24,11 +24,11 @@
     "image": "https://yzfrankli.github.io/meditatr/background.jpg"
   },
   {
-   "title": "white noise Track 4",
-    "subtitle": "5minGuided.mp3",
-    "description": "5minGuided.mp3",
+   "title": "Ocean Waves",
+    "subtitle": "Feel the calming rhythm of the ocean’s ebb and flow",
+    "description": "Feel the calming rhythm of the ocean’s ebb and flow",
     "duration": 14.0,
-    "track": "https://yzfrankli.github.io/meditatr/10minGuided.mp3",
+    "track": "https://yzfrankli.github.io/meditatr/oceanWaves.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic3.jpeg"
   }
 ]
