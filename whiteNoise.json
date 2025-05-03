@@ -24,6 +24,14 @@
     "image": "https://yzfrankli.github.io/meditatr/oceanImage.jpg"
   },
   {
+   "title": "Water Streams",
+    "subtitle": "Sounds of water flowing",
+    "description": "Sounds of water flowing",
+    "duration": 14.0,
+    "track": "https://yzfrankli.github.io/meditatr/waterStreamSound.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/pic3.jpg"
+  },
+  {
    "title": "Static White Noise",
     "subtitle": "Plain white noise track",
     "description": "Plain white noise track",
