@@ -16,19 +16,19 @@
     "image": "https://yzfrankli.github.io/meditatr/pic2.jpg"
   },
   {
+   "title": "Ocean Waves",
+    "subtitle": "Feel the calming rhythm of the ocean’s ebb and flow",
+    "description": "Feel the calming rhythm of the ocean’s ebb and flow",
+    "duration": 14.0,
+    "track": "https://yzfrankli.github.io/meditatr/oceanWaves.mp3",
+    "image": "https://yzfrankli.github.io/meditatr/oceanImage.jpg"
+  },
+  {
    "title": "Static White Noise",
     "subtitle": "Plain white noise track",
     "description": "Plain white noise track",
     "duration": 12.0,
     "track": "https://yzfrankli.github.io/meditatr/whiteNoise.mp3",
     "image": "https://yzfrankli.github.io/meditatr/background.jpg"
-  },
-  {
-   "title": "Ocean Waves",
-    "subtitle": "Feel the calming rhythm of the ocean’s ebb and flow",
-    "description": "Feel the calming rhythm of the ocean’s ebb and flow",
-    "duration": 14.0,
-    "track": "https://yzfrankli.github.io/meditatr/oceanWaves.mp3",
-    "image": "https://yzfrankli.github.io/meditatr/pic3.jpeg"
   }
 ]
