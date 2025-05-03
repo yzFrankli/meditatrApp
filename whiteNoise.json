@@ -1,14 +1,14 @@
 [
   {
-    "title": "white noise Track 1",
-    "subtitle": "White noise with bird",
-    "description": "White noise with bird",
+    "title": "Forest Sounds",
+    "subtitle": "Sounds of bird chirping in the background",
+    "description": "Sounds of bird chirping in the background",
     "duration": 10.0,
     "track": "https://yzfrankli.github.io/meditatr/whiteNoiseBird.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
   },
   {
-    "title": "white noise Track 2",
+    "title": "Rain Drops",
     "subtitle": "White noise with soothing rain",
     "description": "White noise with soothing rain",
     "duration": 11.0,
@@ -16,7 +16,7 @@
     "image": "https://yzfrankli.github.io/meditatr/pic2.jpg"
   },
   {
-   "title": "white noise Track 3",
+   "title": "Static White Noise",
     "subtitle": "Plain white noise track",
     "description": "Plain white noise track",
     "duration": 12.0,
