@@ -1,24 +1,24 @@
 [
   {
-    "title": "Music Track 1",
-    "subtitle": "Chakra music track",
-    "description": "Chakra music track ",
+    "title": "Chakra Healing Music",
+    "subtitle": "Soothing, meditative sound",
+    "description": "Soothing, meditative sound",
     "duration": 10.0,
     "track": "https://yzfrankli.github.io/meditatr/chakraMusic.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic5.jpg"
   },
   {
-    "title": "Music Track 2",
-    "subtitle": "Immersive calming music",
-    "description": "Total immersive calming music",
+    "title": "Immersion",
+    "subtitle": "Dive into a soundscape that quiets the mind",
+    "description": "Dive into a soundscape that quiets the mind",
     "duration": 11.0,
     "track": "https://yzfrankli.github.io/meditatr/immersiveMusic.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic6.jpg"
   },
   {
-   "title": "Music Track 3",
-    "subtitle": "Music made for calming meditation",
-    "description": "Music made for calming meditatio",
+   "title": "Ambient Soundscape",
+    "subtitle": "A gentle audio backdrop to support mindfulness and stillness",
+    "description": "A gentle audio backdrop to support mindfulness and stillness",
     "duration": 12.0,
     "track": "https://yzfrankli.github.io/meditatr/MeditationSound.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic7.jpg"
