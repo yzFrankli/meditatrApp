@@ -1,32 +1,32 @@
 [
   {
-    "title": "Meditation Track 1",
-    "subtitle": "5 minute guided meditation",
-    "description": "5 minute guided meditation",
+    "title": "5-Minute Guided Meditation",
+    "subtitle": "A journey inward to restore clarity and peace",
+    "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
     "track": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
   {
-    "title": "Meditation Track 2",
-    "subtitle": "10 minutes guided meditation",
-    "description": "10 minutes guided meditation",
+    "title": "Deep Relaxation",
+    "subtitle": "Unwind, reset, and reconnect in just ten minutes",
+    "description": "Unwind, reset, and reconnect in just ten minutes",
     "duration": 11.0,
     "track": "https://yzfrankli.github.io/meditatr/10minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
   },
   {
-   "title": "Meditation Track 3",
-    "subtitle": "Guided Meditation to a peaceful day",
-    "description": "10minGuided",
+   "title": "Presence and Inner Calm",
+    "subtitle": "Settle into the now with mindful awareness",
+    "description": "Settle into the now with mindful awareness",
     "duration": 12.0,
     "track": "https://yzfrankli.github.io/meditatr/GuidedM.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic11.jpg"
   },
   {
-   "title": "Meditation Track 4",
-    "subtitle": "Clear your mind with 5 min guided meditation",
-    "description": "Clear your mind with 5 min guided meditation",
+   "title": "Mental Clarity",
+    "subtitle": "Create space for calm",
+    "description": "Create space for calm",
     "duration": 14.0,
     "track": "https://yzfrankli.github.io/meditatr/clearMind.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic12.jpg"
