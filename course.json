@@ -16,13 +16,14 @@
     "title": "Deep Relaxation",
     "subtitle": "Unwind, reset, and reconnect in just ten minutes",
     "description": "Unwind, reset, and reconnect in just ten minutes",
-    "duration": [
+    "duration": "20.0",
+    "track": [
       {
         "id": "les1",
         "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
       }
         ],
-    "track": "https://yzfrankli.github.io/meditatr/10minGuided.mp3",
+   
     "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
   }
 ]
