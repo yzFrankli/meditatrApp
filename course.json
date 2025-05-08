@@ -4,9 +4,11 @@
     "subtitle": "A journey inward to restore clarity and peace",
     "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
-    "track": [
+    "track": [ 
+      {
         "les1": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
         "les2": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
+      }
         ],
     "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
@@ -15,8 +17,10 @@
     "subtitle": "Unwind, reset, and reconnect in just ten minutes",
     "description": "Unwind, reset, and reconnect in just ten minutes",
     "duration": [
+      {
         "les1": "https://yzfrankli.github.io/meditatr/5minGuided.mp3",
         "les2": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
+      }
         ],
     "track": "https://yzfrankli.github.io/meditatr/10minGuided.mp3",
     "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
