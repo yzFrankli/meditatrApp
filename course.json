@@ -13,17 +13,16 @@
     "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
   {
-    "title": "Deep Relaxation",
-    "subtitle": "Unwind, reset, and reconnect in just ten minutes",
-    "description": "Unwind, reset, and reconnect in just ten minutes",
-    "duration": 20.0,
-    "track": [
+    "title": "25-Minute Guided Meditation",
+    "subtitle": "2A journey inward to restore clarity and peace",
+    "description": "2A journey inward to restore clarity and peace",
+    "duration": 10.0,
+    "track": [ 
       {
-        "id": "les1",
+        "id": "2les1",
         "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
       }
         ],
-   
-    "image": "https://yzfrankli.github.io/meditatr/pic10.jpg"
+    "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   }
 ]
