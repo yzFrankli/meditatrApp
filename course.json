@@ -16,7 +16,7 @@
     "title": "Deep Relaxation",
     "subtitle": "Unwind, reset, and reconnect in just ten minutes",
     "description": "Unwind, reset, and reconnect in just ten minutes",
-    "duration": "20.0",
+    "duration": 20.0,
     "track": [
       {
         "id": "les1",
