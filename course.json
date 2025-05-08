@@ -1,6 +1,6 @@
 [
   {
-    "course": "5-Minute Guided Meditation",
+    "title": "5-Minute Guided Meditation",
     "subtitle": "A journey inward to restore clarity and peace",
     "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
@@ -14,7 +14,7 @@
     "image": "https://yzfrankli.github.io/meditatr/pic9.jpg"
   },
   {
-    "course": "10-Minute Guided Meditation",
+    "title": "10-Minute Guided Meditation",
     "subtitle": "something else entirely different",
     "description": "a world of difference",
     "duration": 20.0,
