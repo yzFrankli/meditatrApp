@@ -2,16 +2,21 @@
   {
     "id": 1,
     "title": "5-Minute Guided Meditation",
+    "category": "sleep",
     "subtitle": "A journey inward to restore clarity and peace",
     "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
     "track": [ 
       {
         "id": "les1",
+        "title": "sleep",
+        "description": "sleep",
         "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
       },
       {
         "id": "les2",
+        "title": "clear my mind",
+        "description": "sleep",
         "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
       }
         ],
@@ -20,16 +25,21 @@
   {
     "id": 2,
     "title": "25-Minute Guided Meditation",
+    "category": "sleep",
     "subtitle": "Restore clarity and peace",
     "description": "Restore clarity and peace description",
     "duration": 10.0,
     "track": [ 
       {
         "id": "les1",
+        "title": "sleep",
+        "description": "sleep",
         "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
       },
       {
         "id": "les2",
+        "title": "sleep",
+        "description": "sleep",
         "url": "https://yzfrankli.github.io/meditatr/oceanWaves.mp3"
       }
         ],
