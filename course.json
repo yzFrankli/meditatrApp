@@ -46,5 +46,89 @@
       }
         ],
     "image": "https://yzfrankli.github.io/meditatr/pic1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "30 day course",
+    "category": "meditation",
+    "subtitle": "A journey inward to restore clarity and peace",
+    "description": "A journey inward to restore clarity and peace",
+    "duration": 10.0,
+    "limited": false,
+    "track": [ 
+      {
+        "id": "les1",
+        "title": "sleep",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
+      },
+      {
+        "id": "les2",
+        "title": "clear my mind",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
+      },
+      {
+        "id": "les3",
+        "title": "clear my mind 2",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
+      }
+      {
+        "id": "les3",
+        "title": "clear my mind3",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
+      }
+        ],
+    "image": "https://yzfrankli.github.io/meditatr/pic6.jpg"
+  },
+  {
+    "id": 4,
+    "title": "5-Minute Guided Meditation",
+    "category": "sleep",
+    "subtitle": "A journey inward to restore clarity and peace",
+    "description": "A journey inward to restore clarity and peace",
+    "duration": 10.0,
+    "limited": false,
+    "track": [ 
+      {
+        "id": "les1",
+        "title": "sleep",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
+      },
+      {
+        "id": "les2",
+        "title": "clear my mind",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
+      }
+        ],
+    "image": "https://yzfrankli.github.io/meditatr/pic8.jpg"
+  },
+  {
+    "id": 4,
+    "title": "5-Minute Guided Meditation",
+    "category": "sleep",
+    "subtitle": "A journey inward to restore clarity and peace",
+    "description": "A journey inward to restore clarity and peace",
+    "duration": 10.0,
+    "limited": false,
+    "track": [ 
+      {
+        "id": "les1",
+        "title": "sleep",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/5minGuided.mp3"
+      },
+      {
+        "id": "les2",
+        "title": "clear my mind",
+        "description": "sleep",
+        "url": "https://yzfrankli.github.io/meditatr/clearMind.mp3"
+      }
+        ],
+    "image": "https://yzfrankli.github.io/meditatr/pic4.jpg"
   }
 ]
