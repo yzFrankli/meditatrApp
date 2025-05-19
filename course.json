@@ -6,7 +6,7 @@
     "subtitle": "A journey inward to restore clarity and peace",
     "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
-    "limited": false,
+    "limited": true,
     "track": [ 
       {
         "id": "les1",
@@ -90,7 +90,7 @@
     "subtitle": "A journey inward to restore clarity and peace",
     "description": "A journey inward to restore clarity and peace",
     "duration": 10.0,
-    "limited": false,
+    "limited": true,
     "track": [ 
       {
         "id": "les1",
